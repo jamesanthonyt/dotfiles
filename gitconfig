@@ -11,8 +11,8 @@
 
 [core]
   pager = less -FRSX
-	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
   excludesfile = /Users/jamestrinder/code/jamesanthonyt/.gitignore
+	editor = atom --wait
 
 [alias]
   co = checkout

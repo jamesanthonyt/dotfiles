@@ -6,6 +6,7 @@ read email
 
 git config --global user.email $email
 git config --global user.name $full_name
+git config --global core.editor "atom --wait"
 
 git add .
 git commit --message "My identity for @lewagon in the gitconfig"
