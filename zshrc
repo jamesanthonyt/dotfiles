@@ -1,5 +1,6 @@
 ZSH=$HOME/.oh-my-zsh
 
+export PATH=$HOME/bin:/usr/local/bin:$PATH
 # You can change the theme with another one:
 #   https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 ZSH_THEME="robbyrussell"
